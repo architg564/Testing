@@ -8,7 +8,7 @@ This project can be used as a base for Spring Boot applications.
 ### Getting Started
 
 1. **Prerequisites**
-   - Java 21+ (or your required version)
+   - Java 24+ (or your required version)
    - Maven or Gradle
    - Its a Gradle projects
 
